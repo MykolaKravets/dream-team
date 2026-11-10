@@ -1,3 +1,7 @@
+
+#dsfsdfsdfdsfsd
+
+
 def find_unpaired(list_numbres):
     print('наша програма перевіряє парність елемента списку')
     
